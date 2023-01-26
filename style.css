@@ -1,0 +1,8 @@
+#game_area{
+    position:absolute;
+    top:43%;
+    left:12.5%;
+    margin-left:-100px;/* half width*/
+    margin-top:-300px;/* half height*/
+
+    }
